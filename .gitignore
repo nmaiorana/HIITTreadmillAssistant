@@ -49,3 +49,5 @@ Temporary Items
 bin
 .svn
 libs
+.project
+.classpath
