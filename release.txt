@@ -1,0 +1,69 @@
+04/28/2012 version 2.6, version code 22
+	- Fixing issues with Music
+	- Bringing code up to date with Android 4.2.2
+	- Set a No Action Bar theme
+	
+04/27/2012 version 2.5, version code 21
+	- Added permission for READ_EXTERNAL_STORAGE
+	
+04/11/2012 version 2.4, version code 20
+	- Corrected music locating issue
+	* Note: Only music physically loaded on the device can be found. Does not work with cloud based music.
+	
+09/19/2012 version 2.3, version code 19
+	- Corrected Music Integration Issues
+	- Corrected Timer Issue
+
+01/16/2012 version 2.1, version code 17
+	- Attempt to resolve null pointer exception in HIITSession where workoutInterval was not set when activity started.
+	
+01/16/2012 version 2.0, version code 16
+	- Issue with android marketing library
+
+01/16/2012 version 2.0, version code 15
+	- Removed Facebook Integration
+	- Added Warm Up Options
+	- Added Cool Down Options
+	- Added More Interval Times
+	- Removed Pre-Configured Workouts
+	- Changed UI
+
+11/26/2010 version 1.12, version code 14
+	- Image Modifications
+	- Moved licensing check to after facebook setup
+
+11/15/2010 version 1.11, version code 13
+	- Bug fix
+	- Started using Google license server
+
+11/05/2010 version 1.10, version code 12
+	- Bug Fix for facebook
+
+10/21/2010 version 1.09, version code 11
+	- Updated Icon
+	- Post to Facebook for at least 1 speed interval
+
+10/14/2010 version 1.08, version code 10
+	- Attempt to fix null pointer exception
+	
+10/3/2010 version 1.07, version code 9
+	- Added Facebook integration
+	
+09/19/2010 version 1.06, version code 8
+	- Added Rest Speed Selection
+	- Added music integration
+	
+07/26/2010 version 1.05, version code 7
+	- Upgraded to API level 8
+	- Added disclaimer notice
+	
+05/20/2010 Version 1.04, version code 6
+    - Balanced treadmill ramp up/down time for sprint/rest
+    
+05/09/2010 Version 1.03, version code 4
+	- Remember last workout settings
+	- Added Pause/Resume feature
+	- Moved interval notification to spring interval
+	
+04/11/2010 Version 1.02, version code 3
+	- Now includes SDK 4

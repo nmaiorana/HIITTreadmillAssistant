@@ -1,0 +1,5 @@
+com.android.vending.licensing.ServerManagedPolicy
+com.android.vending.licensing.StrictPolicy
+com.svi.hiit.views.WorkoutSettings
+com.svi.hiit.views.HIITSession
+com.svi.hiita.HIITTreadmillAssistantApplication
